@@ -133,8 +133,8 @@
 | Konfiguration | Motorleistung | Max. Geschw. | Zulassung | Versicherung |
 |---------------|---------------|--------------|-----------|--------------|
 | **Pedelec** | 250W (gedrosselt) | 25 km/h | Keine | Optional |
-| **S-Pedelec** | 500-750W | 45 km/h | Mofa-Prüfbescheinigung | Pflicht (~80€/Jahr) |
-| **Kleinkraftrad** | 1000-1500W | 50 km/h | Führerschein AM | Pflicht + TÜV |
+| **S-Pedelec** | 500-750W | 45 km/h | Führerschein Klasse AM oder B | Pflicht (~80€/Jahr) |
+| **Kleinkraftrad** | 1000-1500W | 50 km/h | Führerschein Klasse AM oder B | Pflicht + TÜV |
 
 **Empfehlung:** Als 25-km/h-Pedelec vermarkten, Upgrades als "Offroad-Kits"
 

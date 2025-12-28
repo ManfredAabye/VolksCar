@@ -116,7 +116,6 @@
 | **🔌 Plug‑&‑Play‑System** | Alle Module mit standardisierten Steckern |
 | **⚡ Energie‑Management** | Intelligente Lastverteilung zwischen Akkus, Solar & Generator |
 | **🚨 Notstromfunktion** | Generator liefert bei Stillstand 230 V für externe Geräte |
-| **💧 Regenwasser‑Management** | Dach mit Rinne und optionalem Wassertank |
 | **💡 Beleuchtung** | Voll‑LED mit Tagfahrlicht, Bremslicht, Blinker |
 | **🛑 Bremsen** | Hydraulische Scheibenbremsen vorne/hinten |
 
@@ -126,10 +125,10 @@
 
 | Betriebsart | Max. Geschw. | Motorleistung | Zulassung | Empfehlung |
 |------------|--------------|---------------|-----------|------------|
-| **20/25 km/h** | 25 km/h | ≤ 250 W | Keine | Helm empfohlen |
-| **45 km/h** | 45 km/h | 500–1000 W | Versicherungskennzeichen, Mofa‑Prüfbescheinigung | Nur mit Genehmigung |
+| **20/25 km/h** | 25 km/h | ≤ 250 W | Pedelec Keine | Helm empfohlen |
+| **45 km/h** | 45 km/h | 500–1000 W | Versicherungskennzeichen, Führerschein Klasse AM oder B | Nur mit Genehmigung |
 | **50 km/h+ / Triple‑Motor** | > 50 km/h | Bis 1500 W | Einzelfallzulassung (Leichtkraftrad) oder nur Offroad |
-| **Generatorbetrieb** | – | – | Nur im Stand (Abgase, Lärm) | |
+| **Generatorbetrieb** | – | – | Nur im Stand | |
 
 ---
 
